@@ -1,2 +1,2 @@
-# SoftUni_Technology_Fundamentals-Java
+# SoftUni_Technology_Fundamentals_Java
 September_2018
